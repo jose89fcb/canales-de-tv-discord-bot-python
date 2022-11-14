@@ -23,3 +23,6 @@ Canales para usar con el bot de discord:
 ✔️!tv fight-sports
 <br>
 ✔️!tv mtmad-24h
+<br>
+<br>
+<img title="Bot canales discord" src="https://i.imgur.com/qaMS97z.png">
